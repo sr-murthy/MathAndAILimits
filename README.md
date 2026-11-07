@@ -4,7 +4,7 @@ A selected list of papers, reports and articles that take a critical look at the
 
 The items in the list are in no particular order, and will be updated over time.
 
-1. Bastounis, A., Circelli, F. and Hansen, A.C. (2026) “Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs.” arXiv. doi:10.48550/ARXIV.2610.08144.
+1. Bastounis, A., Circelli, F. and Hansen, A.C. (2026) “Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs.” arXiv. [doi:10.48550/ARXIV.2610.08144](https://arxiv.org/abs/2610.08144).
 
 2. Antun, V., Colbrook, M.J. and Hansen, A.C. (2022) Proving Existence Is Not Enough: Mathematical Paradoxes Unravel the Limits of Neural Networks in Artificial Intelligence. Society for Industrial and Applied Mathematics (SIAM). Available at: https://www.siam.org/publications/siam-news/articles/proving-existence-is-not-enough-mathematical-paradoxes-unravel-the-limits-of-neural-networks-in-artificial-intelligence.
 
