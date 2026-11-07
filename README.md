@@ -1,2 +1,11 @@
-# MathAndAILimits
-A selected list of papers, reports and articles that take a critical look at the intrinsic limits of AI in mathematics. Includes some software tools/projects.
+# Mathematics And the Intrinsic Limits of AI
+
+A selected list of papers, reports and articles that take a critical look at the intrinsic limits of AI in mathematics. It includes some software tools/projects. Only resources reviewed or, in the case of software projects, evaluated, by the author, are included.
+
+The items in the list are in no particular order, and will be updated over time.
+
+1. Bastounis, A., Circelli, F. and Hansen, A.C. (2026) “Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs.” arXiv. doi:10.48550/ARXIV.2610.08144.
+
+2. Antun, V., Colbrook, M.J. and Hansen, A.C. (2022) Proving Existence Is Not Enough: Mathematical Paradoxes Unravel the Limits of Neural Networks in Artificial Intelligence. Society for Industrial and Applied Mathematics (SIAM). Available at: https://www.siam.org/publications/siam-news/articles/proving-existence-is-not-enough-mathematical-paradoxes-unravel-the-limits-of-neural-networks-in-artificial-intelligence.
+
+3. GitHub - 0xnurl/gpts-cant-count: Demo of even the most advanced LLMs&#39; inability to handle basic arithmetic. (no date) GitHub. Available at: https://github.com/0xnurl/gpts-cant-count (Accessed: November 7, 2026).
