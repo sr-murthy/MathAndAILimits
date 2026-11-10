@@ -6,6 +6,11 @@ The items in the list are in no particular order, and will be updated over time.
 
 1. Bastounis, A., Circelli, F. and Hansen, A.C. (2026) “Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs.” arXiv. [doi:10.48550/ARXIV.2610.08144](https://arxiv.org/abs/2610.08144).
 
-2. Antun, V., Colbrook, M.J. and Hansen, A.C. (2022) Proving Existence Is Not Enough: Mathematical Paradoxes Unravel the Limits of Neural Networks in Artificial Intelligence. Society for Industrial and Applied Mathematics (SIAM). Available at: https://www.siam.org/publications/siam-news/articles/proving-existence-is-not-enough-mathematical-paradoxes-unravel-the-limits-of-neural-networks-in-artificial-intelligence.
+2. Alper, J. et al. (2026) “Leiden Declaration on Artificial Intelligence and Mathematics.” arXiv. [doi:10.48550/ARXIV.2609.35334](https://arxiv.org/pdf/2609.35334).
 
-3. GitHub - 0xnurl/gpts-cant-count: Demo of even the most advanced LLMs inability to handle basic arithmetic. (no date) GitHub. Available at: https://github.com/0xnurl/gpts-cant-count (Accessed: November 7, 2026).
+3. Nikankin, Y. et al. (2024) “Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics.” arXiv. doi:10.48550/ARXIV.2410.21272.
+
+4. 5. GitHub - 0xnurl/gpts-cant-count: Demo of even the most advanced LLMs inability to handle basic arithmetic. (no date) GitHub. Available at: https://github.com/0xnurl/gpts-cant-count (Accessed: November 7, 2026).
+
+5. Antun, V., Colbrook, M.J. and Hansen, A.C. (2022) Proving Existence Is Not Enough: Mathematical Paradoxes Unravel the Limits of Neural Networks in Artificial Intelligence. Society for Industrial and Applied Mathematics (SIAM). Available at: https://www.siam.org/publications/siam-news/articles/proving-existence-is-not-enough-mathematical-paradoxes-unravel-the-limits-of-neural-networks-in-artificial-intelligence.
+
