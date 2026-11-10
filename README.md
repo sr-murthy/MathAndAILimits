@@ -16,6 +16,6 @@ The items in the list are in no particular order, and will be updated over time.
 
 6. Weinreich, M. (2026) “The crisis of AI-generated mathematics.” arXiv. [doi:10.48550/ARXIV.2608.02859](https://arxiv.org/abs/2608.02859).
 
-7. Why is it all in the kernel? (30 July 2026) lawrencecpaulson.github.io. Available at: https://lawrencecpaulson.github.io/2026/07/30/Collatz.html (Accessed: November 10, 2026). **[NOTE: This is about the very recent false AI-assisted disproof of the Collatz conjecture that relied on bugs in LEAN.]**
+7. Why is it all in the kernel? (30 July 2026) lawrencecpaulson.github.io. Available at: https://lawrencecpaulson.github.io/2026/07/30/Collatz.html (Accessed: November 10, 2026). **[NOTE: This is about the very recent false AI-assisted disproof of the [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) that relied on bugs in LEAN.]**
 
 8. Antun, V., Colbrook, M.J. and Hansen, A.C. (2022) Proving Existence Is Not Enough: Mathematical Paradoxes Unravel the Limits of Neural Networks in Artificial Intelligence. Society for Industrial and Applied Mathematics (SIAM). Available at: https://www.siam.org/publications/siam-news/articles/proving-existence-is-not-enough-mathematical-paradoxes-unravel-the-limits-of-neural-networks-in-artificial-intelligence.
